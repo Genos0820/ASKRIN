@@ -18,9 +18,8 @@ export default function Page() {
       "Really sure?",
       "Think again!",
       "Surely not?",
-      "PLEASE POOKIE",
-      "please babe",
-      "please shiggu",
+      "PLEASE Mrinal",
+      "please Ladoo",
       "please Ladoo",
       "You might regret this!",
       "Are you absolutely certain?",
@@ -30,7 +29,7 @@ export default function Page() {
       "What if I asked really nicely?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
-      "Plsss? :( You're breaking my heart shiggu",
+      "Plsss? :( You're breaking my heart Mrinal",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -42,8 +41,9 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            WOOOOOO!!! I like you shiggu..ladoo..!! ;))<br></br>
-                      So it's a date babe ❤️
+            WOOOOOO!!! I knew you would say yes never doubted it.
+             I like you! LYL ;))<br></br>
+                      So it's a date ❤️
           </div>
         </>
       ) : (
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you go out with me shiggu?
+            Will you be my valentine Mrinal(Ladoo)?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
