@@ -39,11 +39,11 @@ export default function Page() {
     <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="text-4xl md:text-6xl font-bold my-4">
-            WOOOOOO!!! I knew you would say yes never doubted it.
-             I like you! LYL ;))<br></br>
-                      So it's a date ❤️
+          <img src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp" />
+          <div className="text-4xl md:text-6xl font-bold my-4 text-center">
+            <div>WOOOOOO!!! I knew you would say yes never doubted it.</div>
+            <div>I like you! LYL ;))</div>
+            <div>So it's a date ❤️</div>
           </div>
         </>
       ) : (
