@@ -39,7 +39,7 @@ export default function Page() {
     <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
-          <img src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp" />
+          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4 text-center">
             <div>WOOOOOO!!! I knew you would say yes never doubted it.</div>
             <div>I like you! LYL ;))</div>
@@ -58,7 +58,7 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Will you be my valentine Mrinal(Ladoo)?
